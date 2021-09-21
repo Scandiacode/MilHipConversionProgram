@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.exe
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.deps.json
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.runtimeconfig.json
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.runtimeconfig.dev.json
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.dll
+C:\Users\logan\source\repos\MilHipConversion\bin\Debug\netcoreapp3.1\MilHipConversion.pdb
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.AssemblyInfo.cs
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.dll
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.pdb
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.genruntimeconfig.cache
+C:\Users\logan\source\repos\MilHipConversion\obj\Debug\netcoreapp3.1\MilHipConversion.csproj.AssemblyReference.cache
